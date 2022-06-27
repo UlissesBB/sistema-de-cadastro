@@ -1,1 +1,1 @@
-console.log("cirando arquivo de cadastro");
+console.log("criando arquivo de cadastro");
